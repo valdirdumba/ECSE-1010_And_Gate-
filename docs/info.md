@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+2 input And gate connected to an LED output
 
 ## How to test
-
-Explain how to use your project
+Input in binary values using switched, and the LED will light according to the binary logic operation
 
 ## External hardware
 
