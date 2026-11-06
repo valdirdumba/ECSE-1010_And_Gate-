@@ -7,12 +7,14 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## How it works
 
+## How it works
 2 input And gate connected to an LED output
+
 
 ## How to test
 Input in binary values using switched, and the LED will light according to the binary logic operation
+
 
 ## External hardware
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
